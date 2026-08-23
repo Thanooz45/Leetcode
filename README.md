@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
+| [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
