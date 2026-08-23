@@ -23,8 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Thanooz45/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Thanooz45/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
