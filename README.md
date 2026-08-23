@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thanooz45/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thanooz45/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thanooz45/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
