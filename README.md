@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
