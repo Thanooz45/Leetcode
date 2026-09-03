@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Thanooz45/Leetcode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Thanooz45/Leetcode/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Thanooz45/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Thanooz45/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
