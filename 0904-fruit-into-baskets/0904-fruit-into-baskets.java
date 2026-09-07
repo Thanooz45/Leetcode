@@ -10,12 +10,12 @@ class Solution {
             int ele=fruits[r];
             hmp.put(ele,hmp.getOrDefault(ele,0)+1);
             if(hmp.size()>2){
-                // while(hmp.size()>2){
+                while(hmp.size()>2){
                     int elee=fruits[l];
                     hmp.put(elee,hmp.get(elee)-1);
                     if(hmp.get(elee)==0) hmp.remove(elee);
                     l++;
-                // }
+                }
                 
             }
 
