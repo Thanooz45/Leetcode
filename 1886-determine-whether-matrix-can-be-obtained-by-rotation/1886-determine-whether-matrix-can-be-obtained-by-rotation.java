@@ -1,6 +1,5 @@
 class Solution {
     public void rotate(int n, int[][] mat) {
-        // Transpose
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 int temp = mat[i][j];
@@ -8,8 +7,6 @@ class Solution {
                 mat[j][i] = temp;
             }
         }
-
-        // Reverse each row
         for (int i = 0; i < n; i++) {
             int l = 0, r = n - 1;
             while (l < r) {
