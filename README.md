@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanooz45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
+| [0904-fruit-into-baskets](https://github.com/Thanooz45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Thanooz45/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Thanooz45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Thanooz45/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thanooz45/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -161,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Thanooz45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
