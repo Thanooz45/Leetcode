@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanooz45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Thanooz45/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thanooz45/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
