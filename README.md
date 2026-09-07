@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanooz45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Thanooz45/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thanooz45/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
