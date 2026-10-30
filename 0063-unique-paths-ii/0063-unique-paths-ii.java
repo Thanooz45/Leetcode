@@ -10,11 +10,15 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(i==0 && j==0) continue;
-                if(arr[i][j]==1) dp[i][j]=0;
+                if(arr[i][j]==1){
+
+                 dp[i][j]=0 ;
+                  continue ;
+                }
                 int front=0;
-                if(j>0 && arr[i][j-1]!=1) front =dp[i][j-1];
+                if(j>0 ) front =dp[i][j-1];
                 int down=0;
-                if(i>0 && arr[i-1][j]!=1) down=dp[i-1][j];
+                if(i>0 ) down=dp[i-1][j];
 
                 dp[i][j]=front+down;
             }
