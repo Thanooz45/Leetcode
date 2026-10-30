@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanooz45/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Thanooz45/Leetcode/tree/master/1927-sum-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanooz45/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Thanooz45/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
