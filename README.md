@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanooz45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/Thanooz45/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/Thanooz45/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Thanooz45/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Thanooz45/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Thanooz45/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanooz45/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Thanooz45/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Thanooz45/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thanooz45/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
 |  |
