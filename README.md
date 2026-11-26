@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thanooz45/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanooz45/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Thanooz45/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Thanooz45/Leetcode/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/Thanooz45/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Thanooz45/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Thanooz45/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Thanooz45/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Thanooz45/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
