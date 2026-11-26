@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Thanooz45/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Thanooz45/Leetcode/tree/master/0120-triangle) |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Thanooz45/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
