@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Thanooz45/Leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Thanooz45/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Thanooz45/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Thanooz45/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thanooz45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Thanooz45/Leetcode/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Thanooz45/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Thanooz45/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Thanooz45/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/Thanooz45/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Thanooz45/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thanooz45/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Thanooz45/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
