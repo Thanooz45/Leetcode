@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Thanooz45/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanooz45/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/Thanooz45/Leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Thanooz45/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Thanooz45/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -252,8 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Thanooz45/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
