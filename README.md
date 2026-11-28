@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thanooz45/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Thanooz45/Leetcode/tree/master/0069-sqrtx) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanooz45/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Thanooz45/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Thanooz45/Leetcode/tree/master/1927-sum-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Thanooz45/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Thanooz45/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thanooz45/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thanooz45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Thanooz45/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Thanooz45/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Thanooz45/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
